@@ -1,0 +1,27 @@
+Test Plan 
+Test Case
+defects in Rally
+test cases in ALM
+diff between qtp and uft
+version of qtp
+diff between cucumber and jehave
+how do you manage your work
+Recording modes in QTP -normal analog low level
+Framework of QTP
+Validation in QTP-using checkpoints
+Java -collections which class was used-HashMap why? because its a collection of objects and its faster
+Exceptions u face-no such element exception,element not visible exception,timeoutexception,array,string index out of bounds exception
+Can we overload main method,how ? by calling the overloaded  method from main method
+POM--Page factory-@FindBy to find elements and initElements to initialize web elements
+navigate and get-difference
+can we automate on existing window in selenium?-No
+framework detail
+how to find text in selenium-contains
+loactors--css do you use
+Relative and absolute xpath ?which one is faster
+following:sibling example username password login (username xpath should be unique)
+Excel -->Apache POI,JXL not used coz old
+running specific stories (meta tag )
+try catch
+
+https://github.com/SACTAN- sachin bhute

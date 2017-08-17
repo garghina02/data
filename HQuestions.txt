@@ -1,0 +1,40 @@
+1.Function overloading
+2.string s1 s2 s3 all are hello
+string s3=new string("hello")
+3.Interface instantiation
+4.exception-- specific exception generic exception and
+5.i=10
+If ()
+{}
+6.int arr[]={0,1,2,3,4,5,6,7,8,9}
+n=6
+n=arr[arr[n]/2]
+sopln(arr[n]/2)
+sopln
+7.constructor object,black /white
+8.count=0
+if(++count<2&&count++<2)
+{sopln"in if"}
+else
+{sopln"in else}
+9.HashMap
+sopln obj
+1.armstrong no.-3
+2.sort-3
+3.find no. of words in string-4
+///////diff between length and size
+//////ask grouping annotation in testng
+///////diff between Actions and Action
+Actions is a class and action is an interface (build is used with action interface to perform sequence of operations)
+///////if both implicit and explicit waits are there?
+Your script sets an implicit wait.
+Your script starts an explicit wait checking whether the element exists. The explicit wait works by polling. So it sends a command to the browser to check for the existence of the element.
+Because of the implicit wait already set, the command sent to the browser takes 10 seconds to return a failure.
+Your explicit wait checks whether it has reached its time limit which is 15s. It is currently at 10s (+ a tiny amount of time taken to execute the script, network latency, etc.) into the wait, which is less then 15s. So it is not done waiting and reissues the same command as in step 2 above.
+Because of the implicit wait, the command sent to the browser takes 10 seconds to return a failure.
+When the explicit wait checks again for its own timeout, more than 15s have elapsed, so it times out.
+So the explicit wait polls twice, and each time takes 10 seconds which mean 20 seconds total (plus a tiny amount of time to account for the bookkeeping).
+
+An explicit wait does not do anything to detect and compensate for an implicit wait that has been set. And it does not continue running in parallel to the commands it sends to the browser. While a browser command executes, the explicit wait is not doing any bookkeeping or able to time out. It has to wait for the browser command to complete before checking whether it should time out.
+
+              

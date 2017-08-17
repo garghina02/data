@@ -1,0 +1,136 @@
+https://netbanking.hdfcbank.com/netbanking/
+https://retail.onlinesbi.com/retail/login.htm
+http://memberclaims.epfoservices.in/index.php
+https://incometaxindiaefiling.gov.in/e-Filing/UserLogin/LoginHome.html
+http://cookclickndevour.com/white-sauce-pasta-recipe-how-to-make
+https://fmovies.se/
+https://bitbucket.es.ad.adp.com/projects/TC/repos/orbis_regression/browse
+https://beginnersbook.com/java-collections-tutorials/
+https://jsonformatter.curiousconcept.com/
+Relative xpath helper
+CSS and XPATH checker
+Postman
+Rest Client
+http://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/2.48.1
+http://www.qtpworld.com/
+http://www.softwaretestinghelp.com/selenium-interview-questions-answers/
+https://www.guru99.com/selenium-tutorial.html
+https://www.tutorialspoint.com/java/java_packages.htm
+http://www.seleniumhq.org/support/
+http://toolsqa.com/selenium-webdriver/wait-commands/
+http://www.instanceofjava.com/2015/08/java-interview-questions-on-main-method.html
+http://www.software-testing-tutorials-automation.com/2014/05/how-to-extract-table-dataread-table.html
+http://www.sitesbay.com/java-program/java-triangle-of-star
+http://learn-automation.com/write-dynamic-css-selector-in-selenium/
+http://learn-automation.com/challenges-with-ie-browser-in-selenium-webdriver/
+http://www.softwaretestinghelp.com/testng-annotations-in-selenium/
+https://blog.testingdocs.com/jbehave-bdd-testing-interview-questions/
+http://mkolisnyk.blogspot.in/2013/03/jbehave-vs-cucumber-jvm-comparison.html
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+https://deveo.com/git-vs-svn/
+https://www.tutorialspoint.com/maven/maven_interview_questions.htm
+http://istqbexamcertification.com/what-are-the-software-development-life-cycle-sdlc-phases/
+confluence
+LnT SSc website 
+password-Hgjan_2016
+FB-Hgsep_2015
+HDFC-Hgmay*2017
+SBI LOGIN-
+HINATC
+T/C/HINA@88
+ITR
+Hgjuly_2016
+PRAN-110018077947
+garghina1
+ikiosk
+315315
+Hgaug_2017
+citi timesheet
+garghina
+Hgaug_2017
+github
+garghina02
+Hgaug_2017
+UAN-100164678258
+Pwd-Hgjan@2016
+hina.garg@yahoo.com
+itsmychoice
+fORM 16
+Adhar card user id-
+ARTPG5682J
+Paswd-
+Hgjuly@2014
+
+CROSS BROWSER
+https://crossbrowsertesting.com
+
+user id: akash.shivhare@adp.com
+Pwd: ADPadp01 
+
+
+Sticky Notes Selenium
+Project ‡Package‡Class
+office-192.168.1.4
+personal-192.168.1.6
+windowhadle
+set<string> allwindows=driver.getwindohandles();dropdownlist
+Select select=new Select(webelement)
+List<Webelement> option=select.getoptions();
+option.size();
+for(Webelement singleoption:option)
+SOPLN singleoption.getText();
+frame
+switchto()frame(webelement,id,name,index)
+Actions builder=new actions(driver)
+Action moveatelement=builder.movetoelement(element).build
+mouse
+Webdriverwait wait=new WebDriverWait(driver,20)
+Webelemet link=wait.until(expecetdcondition.visibilityofelementlocated(By.xpath("//"))
+String currentwindow=driver.getwindowhandle()
+Set<String> windows=driver.getwindowhandles()
+for(String window: windows)
+{if(!window.equalsignorecase(currentwindow))
+{driver.switchTo().window(currentwindow).close();
+driver.switchTo().window(window);
+}
+driver.close();
+}
+TakesSreenshot short=(TakesSreenshot)driver
+File src=short.getscreenshort(output type.file)
+Fileutils.copyfile(src,new file"path with name")
+javascriptexecuter js=(javascriptexecutor) driver;
+js.executescript(script,arguements)
+
+Important Dates
+18aug
+26sep
+14nov
+20jan
+30march
+had medicine for periods
+started diane 35
+12thjune
+10th july
+9th August
+
+Home visits 2016
+feb bday
+april chetna engagement
+August Rakhi
+October Vandana engagement
+Nov Chetna marriage
+
+Feb -thand lagi
+March-itching in V due to antibiotics +irregular P
+May-PCOD +Infection
+June-Severe U infection,got injections
+July-Stomach flu
+
+
+
+
+
+
+
+
+
